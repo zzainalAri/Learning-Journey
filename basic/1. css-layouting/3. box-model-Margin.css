@@ -1,0 +1,112 @@
+/* shorthand margin */
+
+/* .satu {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  margin: 30px 50px 40px 100px;
+}
+
+.dua {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+}
+
+.tiga {
+  width: 50px;
+  height: 50px;
+  background-color: bisque;
+} */
+
+/* auto margin */
+/* .satu {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dua {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tiga {
+  width: 50px;
+  height: 50px;
+  background-color: bisque;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+/* negaative margin */
+/* .satu {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  margin-bottom: 50px;
+}
+
+.dua {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  margin-top: -150px;
+}
+
+.tiga {
+  width: 50px;
+  height: 50px;
+  background-color: bisque;
+} */
+
+/* margin overlapping */
+/* div {
+  display: inline-block;
+}
+.satu {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  margin-right: 20px;
+}
+
+.dua {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  margin-left: 30px;
+}
+
+.tiga {
+  width: 50px;
+  height: 50px;
+  background-color: bisque;
+} */
+
+/* margin biasa */
+/* .satu {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.dua {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+}
+
+.tiga {
+  width: 50px;
+  height: 50px;
+  background-color: bisque;
+} */

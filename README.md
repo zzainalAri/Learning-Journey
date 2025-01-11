@@ -79,6 +79,6 @@ This repository is a step-by-step record of my progress in mastering fullstack d
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 - Email: zainalfadliansyah@gmail.com
-- LinkedIn: www.linkedin.com/in/zainal-arifin-fadliansyah-97673b128
+- LinkedIn: www.linkedin.com/in/zainal-arifin-fadliansyah
 
 Happy coding! 🚀

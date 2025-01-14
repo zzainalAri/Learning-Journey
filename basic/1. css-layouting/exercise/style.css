@@ -1,6 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   font: 16px/28px arial, sans-serif;
   background-color: aliceblue;
+  background-image: url(paisley.webp);
   color: #333;
 }
 
@@ -15,21 +22,68 @@ body {
   padding-bottom: 10px;
 }
 
-ul {
-  list-style: none;
+.header .judul {
+  font-size: 40px;
+  font-weight: bold;
 }
 
-li {
+.header ul li {
   display: inline-block;
-  margin-right: 10px;
   margin-top: 20px;
+  margin-right: 10px;
 }
 
-img {
+.header a {
+  text-decoration: none;
+  color: salmon;
+  padding: 3px;
+}
+
+.header a:hover {
+  background-color: lightblue;
+  color: white;
+}
+
+.hero {
   width: 800px;
   height: 250px;
+  background-image: url(a.jpg);
   background-size: cover;
   background-position: 0 -100px;
   border-bottom: 5px solid lightskyblue;
   border-top: 5px solid salmon;
+}
+
+.content {
+  padding: 20px;
+}
+
+.content h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.content .penulis {
+  font-size: 11px;
+  margin-top: -5px;
+}
+
+.content .penulis a {
+  text-decoration: none;
+  color: salmon;
+}
+.content p {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.footer {
+  background-color: #333;
+}
+
+.footer .copy {
+  color: #eaeaea;
+  text-align: center;
+  font-size: 12px;
+  padding: 10px;
 }

@@ -22,7 +22,6 @@ This repository is a step-by-step record of my progress in mastering fullstack d
 ```plaintext
 ├── Basic
 │   ├── CSS Layout
-│   ├── CSS Grid
 │   ├── Tailwind Css
 │   └── JavaScript
 ├── Intermediate

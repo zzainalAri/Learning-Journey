@@ -575,6 +575,10 @@ video {
   margin-right: 5rem;
 }
 
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -599,6 +603,26 @@ video {
 
 .p-3 {
   padding: 0.75rem;
+}
+
+.p-20 {
+  padding: 5rem;
+}
+
+.pt-20 {
+  padding-top: 5rem;
+}
+
+.pb-20 {
+  padding-bottom: 5rem;
+}
+
+.pr-20 {
+  padding-right: 5rem;
+}
+
+.pl-20 {
+  padding-left: 5rem;
 }
 
 .text-center {
